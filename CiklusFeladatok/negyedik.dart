@@ -1,5 +1,5 @@
 import 'dart:io';
-
+//4. Kérj be egy számot és írasd ki a szám számjegyeinek átlagát két tizedes pontossággal.
 void main() {
   print("Adj meg egy számot!");
   int num  = int.parse(stdin.readLineSync()!);

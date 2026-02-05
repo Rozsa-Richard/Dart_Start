@@ -1,3 +1,4 @@
+//2. Az alábbi lista elemeinek indexét és értékét írasd ki!
 void main() {
   List<String> uefa2024euro = [
     "Spain",

@@ -1,3 +1,5 @@
+//3. Az előző listát írasd ki, hogy ki-kivel játszik.
+//Ha például szerepel a Spain - Germany a kiíratásban, akkor a Germany - Spain ne legyen benne.
 void main() {
   List<String> uefa2024euro = [
     "Spain",

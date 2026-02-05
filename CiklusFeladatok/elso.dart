@@ -1,5 +1,6 @@
 import 'dart:io';
-
+//1. Kérj be két (legfeljebb kétjegyű) egész számot!
+//A kisebbtől a nagyobbik írasd ki a számokat és írd mellé, hogy páros, vagy páratlan a szám.
 void main() {
   print("Adj meg egy számot!");
   int num1  = int.parse(stdin.readLineSync()!);
